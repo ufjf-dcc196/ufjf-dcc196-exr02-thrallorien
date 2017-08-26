@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">dcc196 Eemplo 02</string>
+    <string name="botao_calcular">soma</string>
+    <string name="numero_1">numero1</string>
+    <string name="numero_2">Numero 2</string>
+    <string name="numero2">numero2</string>
+    <string name="button">Button</string>
+    <string name="numero1">numero1</string>
+    <string name="calcular">calcular</string>
+    <string name="subtrair">subtrair</string>
+    <string name="Multiplicar">Multiplicar</string>
+    <string name="dividir">dividir</string>
+</resources>
